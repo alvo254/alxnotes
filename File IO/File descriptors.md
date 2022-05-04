@@ -1,4 +1,6 @@
 # File descriptor
+https://alx-intranet.hbtn.io/rltoken/9Tmu01qEnA9q9khz3gqzJQ
+https://www.youtube.com/watch?v=dP3N8g7h8gY&ab_channel=ShellWave
 
 From Wikipedia, the free encyclopedia
 

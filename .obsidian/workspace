@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Variadic functions/Variadic functions.md",
+            "file": "File IO/Open(sys call).md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variadic functions/Variadic functions.md",
+                "file": "File IO/Open(sys call).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "e1fd0c1fcfc826fc",
   "lastOpenFiles": [
+    "File IO/Open(sys call).md",
+    "File IO/File descriptors.md",
     "Variadic functions/Variadic functions.md",
     "important.png",
     "Printf/read.md",
@@ -95,8 +97,6 @@
     "GCC/Linking options.md",
     "GCC/Assembler options.md",
     "GCC/Preprocessor controlls.md",
-    "GCC/Debugging.md",
-    "GCC/Warning.md",
-    "GCC/Controlling C dialect.md"
+    "GCC/Debugging.md"
   ]
 }
